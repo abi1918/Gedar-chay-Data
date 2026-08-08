@@ -1,0 +1,16 @@
+SPE       :name of optimization program SPE or PSO
+5       :number of variables without observation to calculate 95PPU
+
+H-PET_3.txt
+H-PET_4.txt
+H-SW_3.txt
+H-SW_4.txt
+H-GW_RCHG_1.txt
+
+
+408       :number of simulation time steps
+
+
+
+
+// Remarks

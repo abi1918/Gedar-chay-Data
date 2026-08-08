@@ -1,0 +1,5 @@
+Goal_type= multiple    No_sims= 200     multi_best_sim_no= 166    multi_best_goal = -1.822423
+
+Variable           p-factor  r-factor  R2    NS     bR2      MSE       SSQR       PBIAS  KGE  RSR   MNS   VOL_FR  ---  Mean_sim(Mean_obs)   StdDev_sim(StdDev_obs)
+FLOW_OUT_46        0.52      0.75      0.68  0.63   0.4255   5.1e+001  1.6e+001   26.2  0.60  0.61  0.53  1.36            7.32(9.92)           8.80(11.66)
+FLOW_OUT_51        0.51      0.93      0.64  0.61   0.4433   1.1e+002  1.7e+001   18.8  0.70  0.63  0.49  1.23           11.44(14.09)          14.73(16.91)
