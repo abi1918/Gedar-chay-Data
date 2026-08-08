@@ -1,0 +1,23 @@
+--- ECHO of SPE_Single_Obj_95ppu.exe
+Max size of arrays:
+Max number of simulations= 1000
+Max number of parameters= 1000
+Max number of observed data= 10000
+Max number of obs. variables= 301
+-------------------------------------
+
+number of parameters=   42
+number of simulation=   200
+-------------------- Reading observed.txt --------------
+total number of variables=  2
+obj fn type=  11
+behavioral threshold=  0.300000
+Power of MSN=  1.000000
+FLOW_OUT_46.txt  
+FLOW_OUT_51.txt  
+*in_file=  SPE.OUT/FLOW_OUT_46.txt
+*in_file=  SPE.OUT/FLOW_OUT_51.txt
+file_name 1 = FLOW_OUT_46.txt
+file_name 2 = FLOW_OUT_51.txt
+total_number_of_sims=  200
+best_sim_number=  166
