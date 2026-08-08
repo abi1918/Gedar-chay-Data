@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.676512197800655,
+          37.00143022989602
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "GRID_CODE": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.6188916154611,
+          37.003633863532286
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "GRID_CODE": 42
+      }
+    }
+  ]
+}
