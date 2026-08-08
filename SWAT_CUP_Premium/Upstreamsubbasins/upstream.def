@@ -1,0 +1,6 @@
+88      : number of subbasins
+2          : number of outlets (program reads only the first 5 subbasins or any number specified here)
+
+46
+51
+
