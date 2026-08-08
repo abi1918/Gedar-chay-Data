@@ -1,0 +1,16 @@
+2     : number of observed variables
+
+FRSD_1  : this is the name of the variable and the hru number to be included in the objective function
+2      : number of data points for this variable as it follows below. First column is a sequential number from beginning
+      : of the simulation, second column is variable name and date (format arbitrary), third column is variable value.
+
+5	Yld_1974	1685
+7	Yld_1975	222
+
+
+PINE_2  : this is the name of the variable and the hru number to be included in the objective function
+2      : number of data points for this variable as it follows below. First column is a sequential number from beginning
+      : of the simulation, second column is variable name and date (format arbitrary), third column is variable value.
+
+5	Yld_1974	117
+9	Yld_1978	291

@@ -1,0 +1,37 @@
+2        : number of observed variables
+
+Swr_L1_1  : this is the name of the variable indicating soil layer and the hru number
+11       : number of data points for this variable as it follows below. First column indicates time step of simulation (day,month, or year)
+         : as it occurs in swat output file, second column is date (format arbitrary), third column is variable value.
+
+1       1999.1	.31
+2	1999.2	.11
+366 	2000.1	.21
+367	2000.2	.31
+732	2001.1	.31
+733	2001.2	.11
+1097	2002.1	.21
+1098	2002.2	.21
+1462	2003.1	.11
+1463	2003.2	.11
+1827	2004.1	.21
+
+
+
+Swr_L1_2  : this is the name of the variable indicating soil layer and the hru number
+11       : number of data points for this variable as it follows below. First column indicates time step of simulation (day,month, or year)
+         : as it occurs in swat output file, second column is date (format arbitrary), third column is variable value.
+
+1       1999.1	.31
+2	1999.2	.11
+366 	2000.1	.21
+367	2000.2	.31
+732	2001.1	.31
+733	2001.2	.11
+1097	2002.1	.21
+1098	2002.2	.21
+1462	2003.1	.11
+1463	2003.2	.11
+1827	2004.1	.21
+
+
